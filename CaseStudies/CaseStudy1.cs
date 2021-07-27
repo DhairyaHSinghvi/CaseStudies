@@ -5,6 +5,7 @@ using System.Collections;
 
 namespace CaseStudies
 {
+    //comment from git to vs
     public class Student
     {
         int id;
