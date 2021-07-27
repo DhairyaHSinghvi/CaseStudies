@@ -5,6 +5,7 @@ using System.Text;
 
 namespace CaseStudies
 {
+    //COMMENTING THE CHANGE MADE FOR GIT
 
     public class Course2
     {
