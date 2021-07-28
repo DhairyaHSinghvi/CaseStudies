@@ -11,6 +11,8 @@ namespace CaseStudies
             Console.WriteLine("Hello World");
             
             Console.WriteLine("This is from Test branch and expecting conflict");
+
+            //added this comment after master and testbranch branches were merged and changes were reflected in the 'master' branch.
         }
     }
 }
