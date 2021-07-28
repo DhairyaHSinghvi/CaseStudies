@@ -15,6 +15,7 @@ namespace CaseStudies
             Console.WriteLine(z);
             Console.WriteLine("Selected this from merge editor window");
             Console.WriteLine("This line was added after merge to see if Sync command gives a conflict");
+            //adding the code here from remote(git) repo to local(vs)
         }
     }
 }
