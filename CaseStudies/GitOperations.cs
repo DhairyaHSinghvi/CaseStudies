@@ -13,6 +13,7 @@ namespace CaseStudies
             int y = 30;
             int z = x + y;
             Console.WriteLine(z);
+            Console.WriteLine("Selected this from merge editor window");
         }
     }
 }
