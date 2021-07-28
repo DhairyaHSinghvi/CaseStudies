@@ -14,6 +14,7 @@ namespace CaseStudies
             int z = x + y;
             Console.WriteLine(z);
             Console.WriteLine("Selected this from merge editor window");
+            Console.WriteLine("This line was added after merge to see if Sync command gives a conflict");
         }
     }
 }
